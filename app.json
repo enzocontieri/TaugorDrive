@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.enzocontieri.TaugorDrive"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+      "extra": {
+      "eas": {
+        "projectId": "26cced4f-cfab-4bfd-89db-13d6cbaeea5c"
+      }
     }
   }
 }
